@@ -13,3 +13,6 @@ The following files should be included with this readme:
 The CamShift class is intended to provide a simpler approach to using OpenCV's operations for generating backprojected images 
 and employing the CAMShift algorithm. The CamShift class was originally created as part of the Autonomous Lawnmower Project's
 (ALP) localization system. More information on ALP can be found at www.powellsshowcase.bugs3.com.
+
+Name:		Andrew Powell
+Contact Email:	andrew.powell@temple.edu
